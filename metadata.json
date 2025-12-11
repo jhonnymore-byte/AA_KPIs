@@ -1,0 +1,5 @@
+{
+  "name": "AA_KPIs",
+  "description": "An interactive dashboard that allows users to upload an Excel file of activity data, view key metrics and visualizations, and receive AI-generated insights about the data using the Gemini API.",
+  "requestFramePermissions": []
+}
